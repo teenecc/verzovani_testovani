@@ -4,7 +4,7 @@ class Kalkulacka:
         """
         Add two numbers
         :param a: First number
-        :param b: Second number
+        :param c: Second number
         :return: Sum of number a and number b
         """
         return a + c
@@ -13,7 +13,7 @@ class Kalkulacka:
         """
         Odecita dve cisla
         :param a: První číslo
-        :param b: Druhé číslo
+        :param c: Druhé číslo
         :return: Rozdíl
         """
         return a - c
@@ -22,7 +22,7 @@ class Kalkulacka:
         """
         Násobí čísla
         :param a: první číslo
-        :param b: druhé číslo
+        :param c: druhé číslo
         :return: Součin
         """
         return a * c
@@ -31,7 +31,7 @@ class Kalkulacka:
         """
         Dělí první číslo druhým číslem
         :param a: první číslo
-        :param b: druhé číslo
+        :param c: druhé číslo
         :return: podíl
         """
         return a / c
